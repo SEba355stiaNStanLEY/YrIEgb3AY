@@ -41,7 +41,6 @@ theme:
     - toc.integrate
 extra_css:
   - css/extra.css
-
 # Customization
 extra:
   social:
