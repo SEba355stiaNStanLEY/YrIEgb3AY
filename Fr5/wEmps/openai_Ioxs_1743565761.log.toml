@@ -6,7 +6,6 @@ exclude_patterns = ["classic/**"]
 
 [[analyzers]]
 name = "javascript"
-
 [analyzers.meta]
 plugins = ["react"]
 environment = ["nodejs"]
