@@ -56,7 +56,6 @@ async function Transcription_video() {
     stream.end();
 
 }
-
 //Main
 if (require.main === module) {
 
